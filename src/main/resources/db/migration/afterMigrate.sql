@@ -1,0 +1,1 @@
+insert into pais(nome,capital,regiao,subregiao,area) values('Mozambique', 'Maputo cidade', 'Sudeste do continente africano','teste',1285216.0);
